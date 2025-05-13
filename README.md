@@ -11,7 +11,7 @@ Assignment Steps:
 1. pull this repo (easier than copy/pasting)
 
 2. For the TO DOs, please write your code underneath each
-You can makes changes in the main.py themselves or make a new .py file with you code
+You can makes changes in the main.py themselves or make a new .py file with your code
 
 3. Once you are satisfied with your code please email a zip file to chanley@guzmanenergy.com and sjbeuning@guzmanenergy.com
 
